@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">ReadWrite_ExternalStorage</string>
+    <string name="textViewExternalStorage">ExternalStorage</string>
+    <string name="editTextInput">Input</string>
+    <string name="buttonReadPublic">FILE READ FROM PUBLIC OUTTER</string>
+    <string name="buttonWritePublic">FILE WRITE FROM PUBLIC OUTTER</string>
 </resources>
